@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en"><html>
+<heading>
+	
+
+</heading>
+<body>
+	<style>
+		body {background-color: LightSeaGreen;}
+		home {color: azure; position: absolute;left: 650px; top: 300px;}
+		.display {color: azure; position: absolute;left: 750px; top: 400px;}
+		
+	</style>
+	<center>
+	<a href="/home" id = 'home'>click here to go home</a>
+	<div class = "display">
+		{%for qoute in session['quotes']%}
+			{{qoute}}
+		{%endfor%}
+		<br></div>
+    </div>
+</center>
+</body>
+</html>
