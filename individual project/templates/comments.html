@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en"><html>
+<heading>
+	
+
+</heading>
+<body>
+	<style>
+		body {background-color: #ACE1AF;}
+		home {color: #006241; position: absolute;left: 650px; top: 300px;}
+		.comments {color: #006241; position: absolute;left: 30px; top: 400px; font-size: 25px;}
+		.home {color: #006241; padding: 10px 28px; font-size: 20px;}
+		.gohome {color: #006241; position: absolute;left: 50px; top: 900px;}
+		h1 {color: #006241; position: absolute;left: 700px; top: 150px; font-size: 50px;}
+	</style>
+		<h1>Comments</h1>
+	<a href="/comments" id = 'comments'></a>
+	<div class = "comments">
+		{%for comment in session['comments']%}
+			{{comment}}
+<br></br>
+		{%endfor%}
+		<br></br>
+    </div>
+    <div class = "gohome">
+        <button class = "home"><a href="/home">home</a></button>
+    </div>
+</body>
+</html>

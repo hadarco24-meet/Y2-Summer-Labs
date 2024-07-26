@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en"><html>
+<heading>
+	
+
+</heading>
+<body>
+	<style>
+		body {background-color: #ACE1AF;}
+		h1 {color: #006241; position: absolute;left: 550px; top: 200px; font-size: 50px;}
+		h2 {color: #006241; position: absolute;left: 550px; top: 310px;}
+		.signup {color: #006241; position: absolute;left: 550px; top: 400px;}
+		.gohome {color: #006241; position: absolute;left: 50px; top: 900px;}
+		.home {color: #006241; padding: 10px 28px; font-size: 20px;}
+
+	</style>
+	<center>
+		<h1>Create an account</h1>
+        <h2>fill up your info here to sign up</h2>
+    <div class = "signup">
+		<form action="/signup" method="POST">
+		<input type="text" name="email" id = email placeholder="Type email here:" >
+		<input type="text" name="password" id = password placeholder="Type password here:" >
+		<input type="submit" value = "submit">
+        <button><a href="/signin">already have an account? click here to sign in</a></button>
+    </div>
+    <div class = "gohome">
+        <button class = "home"><a href="/home">home</a></button>
+    </div>
+    </form>
+</center>
+</body>
+</html>

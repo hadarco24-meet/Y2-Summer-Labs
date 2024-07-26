@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en"><html>
+<heading>
+	
+
+</heading>
+<body>
+	<style>
+		body {background-color: #ACE1AF;}
+		h1 {color: #006241; position: absolute;left: 800px; top: 160px; font-size: 70px;}
+		h2 {color: #006241; position: absolute;left: 400px; top: 340px;}
+		.home {color: #006241; position: absolute;left: 600px; top: 360px;}
+		.gohome {color: #006241; position: absolute;left: 50px; top: 900px;}
+		.comments {color: #006241; position: absolute;left: 600px; top: 500px; font-size: 40px;}
+		.a1 {font-size: 20px;}
+		.a2 {font-size: 20px;}
+		.a3 {font-size: 20px;}
+		.a4 {font-size: 20px;}
+
+	</style>
+		<h1>Home</h1>
+        <h2></h2>
+    <div class = "home">
+		<form action="/home" method="POST">
+        <button class = "a1"><a href="/signin">login to existing account</a></button>
+        <button class = "a2"><a href="/signup">create an account</a></button>
+        <button class = "a3"><a href="/main">main page</a></button>
+        <button class = "a4"><a href="/comments">comments</a></button>
+    </div>
+    </form>
+    <div class = "comments">
+    <form action="/home" method="POST">
+    	<p>Add a comment:</p>
+    	<input type="text" name="comments" placeholder="type comment here:" >
+    	<input type="submit" value = "submit" >
+	</div>
+	</form>
+</body>
+</html>
