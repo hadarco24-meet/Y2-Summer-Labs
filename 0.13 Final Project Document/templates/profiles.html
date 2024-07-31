@@ -1,0 +1,19 @@
+<html>
+<head>
+</head>
+<body>
+	<h1>PROFILES</h1>
+	<form action="/profiles" method="POST">
+		<input type="text" name="id" placeholder="Enter users id:">
+		<input type="submit" value="submit">	
+		<p>copy and paste here the user id to see the users profile</p>
+	</form>
+	<ul>
+	{% for i in users %}
+	<li><h3>{{users[i]["name"]}}</h3>{% if users[i]["school"] == "Y" %}Younited{% else %}Other{% endif %}     id: {{i}}</li><br>
+	{% endfor %}
+	</ul>
+    <button><a href="/home">home</a></button>
+
+</body>
+</html>

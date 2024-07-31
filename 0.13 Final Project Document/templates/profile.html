@@ -1,0 +1,19 @@
+<html>
+<head>
+	<style>
+	</style>
+</head>
+<body>
+	{% if user_id != id %}
+	<h1>{{users[id]["name"]}}</h1>
+	{% if users[id]["school"] == "Y" %}
+		<p>Younited</p>
+	{% else %}
+		<p></p>
+	{% endif %}
+	<p>EMAIL: {{users[id]["email"]}}</p>
+	{}
+	{% endif %}
+	
+</body>
+</html>
