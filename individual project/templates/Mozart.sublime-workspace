@@ -1,0 +1,277 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fire",
+				"firebaseConfig"
+			],
+			[
+				"fi",
+				"firebase"
+			],
+			[
+				"re",
+				"redirect"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Mozart.html",
+			"settings":
+			{
+				"buffer_size": 2036,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/student/Documents/GitHub/meetProj/templates/signin.html",
+		"/home/student/Documents/GitHub/meetProj/templates/signup.html",
+		"/home/student/Documents/GitHub/meetProj/templates/profiles.html",
+		"/home/student/Documents/GitHub/meetProj/app.py",
+		"/home/student/Documents/GitHub/meetProj/templates/main.html",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/0.13 Final Project Document/templates/signup.html",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/0.13 Final Project Document/templates/signin.html",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/0.13 Final Project Document/templates/profiles.html",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/0.13 Final Project Document/templates/main.html",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/0.13 Final Project Document/templates/home.html",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/0.13 Final Project Document/app.py",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/0.13 Final Project Document/templates/app.py",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/individual project/app.py",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/individual project/templates/main.html",
+		"/home/student/Desktop/startbootstrap.zip",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/individual project/templates/Kuhlau.html",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/individual project/templates/comments.html",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/individual project/templates/signup.html",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/individual project/templates/home.html",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/individual project/templates/signin.html",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/individual project/templates/Beethoven.html",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/individual project/templates/Bach.html",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/individual project/templates/Chopin.html",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/individual project/templates/Mozart.html",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/individual project/templates/Schubert.html",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/individual project/templates/Schuman.html",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/individual project/templates/Kulau.html",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/individual project/templates/pianist.html",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/Auth Lab/template/display.html",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/Auth Lab/app.py",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/Auth Lab/template/signup.html",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/Auth Lab/template/thanks.html",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/Auth Lab/template/home.html",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/Auth Lab/template/signout.html",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/Auth Lab/template/signin.html",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/Login-Session-Lab/templates/login.html",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/Login-Session-Lab/app.py",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/Auth Lab/template/app.py",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/Login-Session-Lab/templates/fortune.html",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/Login-Session-Lab/templates/login.sublime-workspace",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/Login-Session-Lab/templates/home.html",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/Flask Forms Fortune Teller/pythonFT.py",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/Flask Forms Fortune Teller/templates/fortune.html",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/Flask Forms Fortune Teller/templates/home.html",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/Login-Session-Lab/templates/display.html",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/Login-Session-Lab/templates/error.html",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/Login-Session-Lab/templates/thanks.html",
+		"/home/student/Documents/GitHub/Intro-To-Summer23/app.py",
+		"/home/student/Documents/GitHub/Intro-To-Summer23/hello.html",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/0.6. Advanced Flask fortune-teller/templates/home.html",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/0.6. Advanced Flask fortune-teller/templates/fortune.html",
+		"/home/student/Documents/GitHub/Y2-Summer-Labs/0.6. Advanced Flask fortune-teller/pythonFT.py",
+		"/home/student/Documents/GitHub/Intro-To-Summer23/main.js",
+		"/home/student/Documents/GitHub/Intro-To-Summer23/python_review_2.py",
+		"/home/student/Documents/GitHub/Intro-To-Summer23/first_lab.py",
+		"/home/student/Desktop/cs/print (\"hello world\").py"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Mozart.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2036,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1888,
+								2009
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 592.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Mozart.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

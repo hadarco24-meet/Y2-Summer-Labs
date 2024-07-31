@@ -28,13 +28,11 @@ def signup():
     if request.method == 'POST':
       email = request.form['email']
       password = request.form['password']
+      username = request.form['username']
       try:
-        user = auth.create_user_with_email_and_password(email, password)            
-        db.child("signup").push({
-          "email": email,
-          "password": password 
-        })            
+        user = auth.create_user_with_email_and_password(email, password)              
         login_session['user'] = user
+        db.child('Users').child(login_session['user']['localId']).set({'username': username, 'email': email}) 
         return redirect(url_for('home'))
       except Exception as e:
         error = "Authentication failed: {}".format(e)
@@ -77,10 +75,11 @@ def home():
       login_session.modified = True        
       db.child("comments").push({"comments": comments})        
       return redirect(url_for('home'))
-    else:
-      return render_template("home.html")
+
   else:
-    return render_template("home.html")
+    user_info = db.child("Users").child(login_session['user']['localId']).get().val()      
+    return render_template("home.html" , user_info = user_info)
+
 
 @app.route('/main', methods=['GET', 'POST'])
 def main():
